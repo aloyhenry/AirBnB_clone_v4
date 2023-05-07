@@ -1,3 +1,4 @@
+#AirBnB Clone for ALX
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -132,7 +133,7 @@ TestBaseModel class:
 vagrantAirBnB_clone$./console.py
 (hbnb) help
 
-Documented commands (type help <topic>):
+Documentei commands (type help <topic>):
 ========================================
 EOF  all  create  destroy  help  quit  show  update
 
@@ -154,13 +155,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
-Web dynamic of Airbnb:
-Grace Effiong - [Github](https://github.com/Rubylena) / [Email](graceffiong@gmail.com)
-Eka Essien - [Github](https://github.com/Tishly) / [Email](ekaetteessien27@gmail.com)
+Henry Aloysius [Github] (github.com/aloyhenry) Twitter(Henry_crypt) [email] (henryaloysius4@gmail.com)
+Okato E. Ogheneochuko [Github] (github.com/julesswiss) Twitter (@Erhivworj) [email] (jerhivwor@gmail.com)
 ## License
 Public Domain. No copy write protection. 
